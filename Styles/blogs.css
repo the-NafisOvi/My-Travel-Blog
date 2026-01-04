@@ -23,3 +23,6 @@ nav li:hover{
 header h2:hover{
     background-color: bisque;
 }
+nav{
+    background-color: beige;
+}
