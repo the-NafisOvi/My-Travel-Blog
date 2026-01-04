@@ -1,3 +1,9 @@
+iframe{
+    border: 10px solid blue;
+    border-radius: 10px 0px 10px 0px;
+     box-shadow: 5px 5px 5px;
+    /* margin: 50px; */
+}
 nav li{
     list-style: none;
     display: inline;
@@ -7,17 +13,13 @@ nav li a{
     text-decoration: none;
 }
 nav li:hover{
-    background-color: aqua;
+    background-color: rgb(30, 32, 32);
 }
 
 .ovi{
     color: rgb(255, 0, 140);
 }
-iframe{
-    border: 10px solid blue;
-    border-radius: 10px 0px 10px 0px;
-    /* margin: 50px; */
-}
+
 header h2:hover{
     background-color: bisque;
 }
