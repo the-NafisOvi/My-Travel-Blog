@@ -1,0 +1,23 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 15px;
+}
+nav li a{
+    text-decoration: none;
+}
+nav li:hover{
+    background-color: aqua;
+}
+
+.ovi{
+    color: rgb(255, 0, 140);
+}
+iframe{
+    border: 10px solid blue;
+    border-radius: 10px 0px 10px 0px;
+    /* margin: 50px; */
+}
+header h2:hover{
+    background-color: bisque;
+}
